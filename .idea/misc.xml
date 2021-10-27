@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Proyects/Android/Lab05_IDNP/app/src/main/res/layout/activity_bar_chart.xml" value="0.2" />
         <entry key="..\:/Proyects/Android/Lab05_IDNP/app/src/main/res/layout/activity_bar_graphic.xml" value="0.1956521739130435" />
         <entry key="..\:/Proyects/Android/Lab05_IDNP/app/src/main/res/layout/activity_main.xml" value="0.1956521739130435" />
+        <entry key="..\:/Proyects/Android/Lab05_IDNP/app/src/main/res/layout/bar_chart_item.xml" value="0.1" />
       </map>
     </option>
   </component>

@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         val btnExercise2 = findViewById<Button>(R.id.go_exercise_2)
         btnExercise2.setOnClickListener {
-            val intent = Intent(this, BarGraphicActivity::class.java)
+            val intent = Intent(this, BarChartActivity::class.java)
             startActivity(intent)
         }
 
